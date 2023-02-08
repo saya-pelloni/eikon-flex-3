@@ -1,5 +1,10 @@
 /* 1. exercice-flex */
 
+.exercice-flex .container {
+  background: palevioletred;
+ display: flex;
+ flex-direction: row;
+}
 
 /* 2. exercice-order-1 */
 .exercice-order-2 .container {
